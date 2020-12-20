@@ -1,0 +1,2 @@
+# Include SQL in language statistics
+*.sql linguist-detectable
