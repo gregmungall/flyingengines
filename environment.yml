@@ -1,0 +1,7 @@
+name: flyingengines
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - psycopg2
+  - seaborn
